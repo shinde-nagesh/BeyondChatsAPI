@@ -1,7 +1,5 @@
 ﻿# BeyondChatsAPI
 
-# Citation Fetcher
-
 This is a simple Python script to fetch and display citations from an API using a Tkinter-based GUI.
 
 ## Prerequisites
